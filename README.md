@@ -1,20 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rule
 
-<!--
-**CodingRule/CodingRule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Cybersecurity, CTFs, Software Development, and Robotics**.  
+I love building projects that push boundaries — from **CTF challenges & reverse engineering** to **AI-powered apps** and **full-stack web platforms**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- 🎓 High-school student diving deep into **Math, Physics, Informatics, and Cybersecurity**  
+- 🛡️ Active in **CTFs** (HITCON, Nullcon, RoCSC, etc.) — challenges  
+- 💻 Developer working with **Node.js, Python, PHP (Laravel), React, Next.js, and more**  
+- 🤖 Member of **ASCEND Robotics ICHC** and Founder of **OmniCYBR (aka. OmniCTF)**  
+- 📚 Always learning, always leveling up 🚀  
 
+---
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; background:url(javascript:alert(1))]{x0000}$}
+### ⚙️ Tech Stack
+
+**Languages**  
+`Python` `JavaScript/TypeScript` `PHP` `C/C++` `Rust` `Java`
+
+**Frameworks & Tools**  
+`Node.js` `Express` `React` `Next.js` `Flask` `Laravel`  
+`Docker` `Kubernetes` `PostgreSQL` `MySQL`
+
+**Cybersecurity & Forensics**  
+`CTFd` `Pwntools` `Volatility` `Ghidra` `Binja` `Wireshark`  
+
+---
+
+### 📊 GitHub Stats
+![Rule's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingRule&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingRule&layout=compact&theme=radical)  
+
+---
+
+✨ *“Build. Break. Learn. Repeat.”* ✨
